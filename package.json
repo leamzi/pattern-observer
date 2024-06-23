@@ -1,0 +1,12 @@
+{
+  "name": "com.codeforfun.observer",
+  "version": "1.0.0",
+  "displayName": "Observer Pattern",
+  "description": "This is an example package",
+  "unity": "2019.1",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Ismael Serrada"
+  }
+}
