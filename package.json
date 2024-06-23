@@ -1,0 +1,12 @@
+{
+  "name": "com.codeforfun.observer",
+  "version": "1.0.0",
+  "displayName": "Observer Helper",
+  "description": "This package creates an util class defined to use the Observer pattern",
+  "unity": "2019.1",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Ismael Serrada"
+  }
+}
